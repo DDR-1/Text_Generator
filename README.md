@@ -1,2 +1,3 @@
-#Text-Generator
-Automatic text generator using RNN at word-level and character-level
+#Text Generator
+
+Automatic text generator using RNN at word-level and character-level.
